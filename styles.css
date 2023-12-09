@@ -95,24 +95,3 @@ nav ul li a {
   margin: 12px;
 }
 
-/* Profile Style */
-.profile-info {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: nowrap;
-  padding: 50px;
-}
-
-.profile-pic {
-  flex: 0 0 100px; /* Lebar foto profil */
-  margin-right: 10px; /* Jarak antara foto dan deskripsi */
-}
-
-.profile-pic img {
-  width: 200px;
-  height: 250px;
-  border-radius: 10%;
-  object-fit: cover;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
-}
