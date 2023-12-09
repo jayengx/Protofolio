@@ -11,6 +11,7 @@ body {
   animation: gradient 15s ease infinite;
   background-size: 500% 500%;
   background-attachment: fixed;
+  height: 100vh;
 }
 
 @keyframes gradient {
