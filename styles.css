@@ -10,7 +10,7 @@
 body {
   background: linear-gradient(315deg, rgb(48, 2, 109) 3%, rgb(1, 10, 66) 38%);
   animation: gradient 15s ease infinite;
-  background-size: 500% 500%;
+  background-size: 400% 400%;
   background-attachment: fixed;
   height: 100vh;
 }
