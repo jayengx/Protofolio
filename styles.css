@@ -93,14 +93,18 @@ nav ul li a {
 
 .profile-pic {
   flex: 0 0 150px; /* Lebar foto profil */
-  padding: 0;
+  padding: 50px;
   margin: 0;
+  filter: drop-shadow(0 0 10px rgb(255, 172, 7));
+
 }
 
 .profile-pic img {
-  width: 300px;
+  width: 250px;
   border-radius: 50%;
   object-fit: cover;
+  border: 3px solid rgb(255, 172, 7);
+  filter: drop-shadow(0 0 10px rgb(255, 172, 7));
 }
 
 #about p {
