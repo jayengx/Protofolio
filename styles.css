@@ -13,6 +13,7 @@ body {
   background-size: 400% 400%;
   background-attachment: fixed;
   height: 100vh;
+  padding: 20px;
 }
 
 @keyframes gradient {
@@ -28,7 +29,7 @@ body {
 }
 
 .navbar {
-  padding: 25px 100px;
+  padding: 15px 20px;
 }
 
 /* Header Styling */
