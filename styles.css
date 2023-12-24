@@ -62,22 +62,22 @@ nav ul li a {
 }
 
 /* Beranda Styling */
-#about {
+#home {
   padding: 200px 0;
   text-align: center;
 }
 
-#about h1 {
+#home h1 {
   font-size: 2rem;
   margin-bottom: 10px;
   color: white;
 }
 
-#about h1 span {
+#home h1 span {
   text-decoration: underline;
   color: rgb(255, 172, 7);
 }
-#about p {
+#home p {
   text-align: center;
   font-size: 1rem;
   color: white;
